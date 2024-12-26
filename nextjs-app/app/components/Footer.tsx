@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <section className="py-10 bg-gray-50 sm:pt-16 lg:pt-24">
+    <footer className="py-10 bg-gray-50 sm:pt-16 lg:pt-24">
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="grid grid-cols-2 md:col-span-3 lg:grid-cols-6 gap-y-16 gap-x-12">
           <div className="col-span-2 md:col-span-3 lg:col-span-2 lg:pr-8">
@@ -225,7 +225,7 @@ export default function Footer() {
           © Copyright 2021, All Rights Reserved by Postcraft
         </p>
       </div>
-    </section>
+    </footer>
     // <footer className="bg-gray-50 border-gray-100 border-t">
     //   <div className="container">
     //     <div className="flex flex-col items-center py-28 lg:flex-row">
